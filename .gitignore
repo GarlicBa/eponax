@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.cache/
+*.log
+__pycache__/
+*.part
+*.aria2
+素材/
+eponax-source-deploy*.zip
